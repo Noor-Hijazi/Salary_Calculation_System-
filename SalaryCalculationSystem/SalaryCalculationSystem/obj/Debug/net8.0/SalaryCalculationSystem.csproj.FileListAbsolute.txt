@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\net8.0\SalaryCalculationSystem.exe
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\net8.0\SalaryCalculationSystem.deps.json
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\net8.0\SalaryCalculationSystem.runtimeconfig.json
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\net8.0\SalaryCalculationSystem.dll
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\bin\Debug\net8.0\SalaryCalculationSystem.pdb
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.AssemblyInfo.cs
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.dll
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\refint\SalaryCalculationSystem.dll
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.pdb
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\SalaryCalculationSystem.genruntimeconfig.cache
+C:\Users\dell\source\repos\SalaryCalculationSystem\SalaryCalculationSystem\obj\Debug\net8.0\ref\SalaryCalculationSystem.dll
